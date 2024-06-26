@@ -1,0 +1,28 @@
+.mainBlock {
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #000;
+}
+
+.subChild {
+  background-color: rgb(255, 114, 114);
+}
+
+.child {
+  background-color: greenyellow;
+}
+
+.parent {
+  background-color: lightblue;
+}
+
+.titleBlock {
+  margin: 10px;
+  padding: 10px;
+}
+
+.buttonBlock {
+  margin: 10px;
+  padding: 10px;
+}
