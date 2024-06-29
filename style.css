@@ -1,0 +1,26 @@
+.mainBlock {
+  margin: 10px;
+  border: 1px solid #000;
+  padding: 10px;
+  text-align: center;
+}
+
+.inner {
+  background-color: rgb(0, 110, 255);
+}
+
+.middle {
+  background-color: darkgoldenrod;
+}
+
+.outer {
+  background-color: darkseagreen;
+}
+
+.titleBlock {
+  padding: 10px;
+}
+
+.buttonBlock {
+  padding: 10px;
+}
